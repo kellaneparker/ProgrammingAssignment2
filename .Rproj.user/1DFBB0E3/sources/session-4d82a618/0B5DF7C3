@@ -3,7 +3,7 @@
     "path": "C:/Users/kella/OneDrive/Desktop/R Files/cachematrix.R",
     "project_path": null,
     "type": "r_source",
-    "hash": "2122624911",
+    "hash": "2622905863",
     "contents": "",
     "dirty": false,
     "created": 1699819366506.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "53,16",
-        "scrollLine": "34"
+        "cursorPosition": "44,23",
+        "scrollLine": "10"
     },
     "folds": "",
-    "lastKnownWriteTime": 1699820236,
+    "lastKnownWriteTime": 1699821220,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1699820236588,
+    "last_content_update": 1699821220578,
     "read_only": false,
     "read_only_alternatives": []
 }
